@@ -1,5 +1,28 @@
 ### Hi there 👋
 
+![visitors card](https://visitor-badge.glitch.me/badge?page_id=codecrap.visitor-badge)
+
+<a href="https://github.com/codecrap/inspire-experiments">
+  <img align="left" width="420px" src="https://github-readme-stats.vercel.app/api/?username=codecrap&show_icons=true&hide_border=true&theme=onedark&count_private=true&include_all_commits=false" />
+</a>
+<a href="https://github.com/codecrap">
+  <img align="center" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecrap&layout=compact&theme=onedark" />
+</a>
+
+#
+#### My favourite..
+- Languages:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?logo=latex&style=flat)
+- IDE:
+![PyCharm](https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=black&color=black&labelColor=20d68f&style=flat)
+- Distro:
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat)
+- Tool:
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
+- Social:
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)
+
 <!--
 **codecrap/codecrap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
